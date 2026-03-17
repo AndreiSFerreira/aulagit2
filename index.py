@@ -1,1 +1,1 @@
-print('algo')kjkj
+print('algo')
